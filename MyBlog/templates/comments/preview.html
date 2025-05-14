@@ -1,0 +1,8 @@
+{% extends '../blogmain/base.html' %}
+{% load comments_extras %}
+
+{% block main %}
+    
+    {% comment %} form 包含了错误提示信息 {% endcomment %}
+    {% show_comment_form post form %}
+{% endblock main %}
