@@ -19,6 +19,7 @@ virtualenv = "==20.31.2"
 gunicorn = "*"
 
 [dev-packages]
+fabric = "*"
 
 [requires]
 python_version = "3.11"

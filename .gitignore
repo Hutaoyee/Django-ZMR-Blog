@@ -23,6 +23,9 @@ wheels/
 .installed.cfg
 *.egg
 
+# github token
+_credentials.py
+
 # Django
 *.log
 local_settings.py
