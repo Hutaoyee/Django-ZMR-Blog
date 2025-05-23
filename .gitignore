@@ -50,3 +50,6 @@ env/
 # 环境变量文件
 .env
 .venv
+
+# other
+django-blog-tutorial-templates-master/
